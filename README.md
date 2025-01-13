@@ -1,5 +1,5 @@
 # L-T-group-task
 Udit Soni
 Vishal Mundra
-Yuvraj
+Yuvraj Patidar
 Sir Padampat Singhania University
