@@ -1,5 +1,8 @@
 # L-T-group-task
-Udit Soni
-Vishal Mundra
-Yuvraj Patidar 24EC003300
+
+____________________________
+
+Udit Soni 24ME003101
+Vishal Mundra 24CS003329
 Sir Padampat Singhania University
+_________________________________
